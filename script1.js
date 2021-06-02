@@ -76,3 +76,4 @@ const {team1, x: draw , team2} = game.odds;
 game.printGoals(...allPlayers);
 team1 < team2 && console.log("team 1 won");
 team1 > team2 && console.log("team 2 won");
+console.log("testing");
